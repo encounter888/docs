@@ -7,3 +7,5 @@
 
 - **实践笔记**
   - [部署前端 dist 产物](notes/deploy-dist)
+
+- [返回个人主页 ↗](https://encounter888.github.io/ ':target=_blank')
